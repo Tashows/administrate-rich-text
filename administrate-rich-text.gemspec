@@ -29,6 +29,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   # Uncomment to register a new dependency of your gem
-  spec.add_dependency 'administrate', '< 1.0.0'
+  spec.add_dependency 'administrate', '< 2.0.0'
   spec.add_dependency 'rails', '>= 7.0.0'
 end
